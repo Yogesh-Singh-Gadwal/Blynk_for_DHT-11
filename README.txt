@@ -8,14 +8,6 @@
 
 #3. Create your App using components given there. (take labeled value for better experience.)
 
-#4. Get your Auth-Token on mail and use it in the code wherever required.
+#4. Put the required details in the ".ino" file, and make changes in the "config.h" file.
 
-#5. Sign up in your Adafruit account and create feeds for TEMPERATURE and HUMIDITY
-
-#6. create dashboard for the feeds.
-
-#7. Put the required details in the ".ino" file, and make changes in the "config.h" file.
-
-#8. Burn the ".ino" file to your ESP8266.
-
-#9.Open your Blynk App and start receiving data there.
+#5. Burn the ".ino" file to your ESP8266 and Open your Blynk App and start receiving data there.
